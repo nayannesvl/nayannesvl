@@ -3,9 +3,10 @@
 
 
 - 🔎 Atualmente estou procurando uma oportunidade no mercado de trabalho..
-- 🌱 Estou estudando html, css e javascript.
+- 🌱 Estudando Swift.
 
 <div>
+  <a href= "https://github.com/nayannesvl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayannesvl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayannesvl&layout=compact&langs_count=16&theme=dark"/>
 </div>
