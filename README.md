@@ -2,8 +2,8 @@
 
 
 
-- 🔎 Atualmente estou procurando uma oportunidade no mercado de trabalho..
-- 🌱 Estudando Swift.
+- 🔎 Estagiária em Desenvolvimento 
+- 🌱 Estudando JavaScript.
 
 <div>
   <a href= "https://github.com/nayannesvl">
