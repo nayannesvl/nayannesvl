@@ -2,8 +2,8 @@
 
 
 
-- 🔎 Estagiária em Desenvolvimento 
-- 🌱 Estudando JavaScript.
+- 🔎 Analista de Sistema
+- 🌱 Javascript/ React / Node.js/ Typescript
 
 ##
 <div>
